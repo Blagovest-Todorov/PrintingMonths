@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\bin\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.exe
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\bin\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.deps.json
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\bin\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.runtimeconfig.json
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\bin\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\bin\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.dll
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\bin\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.pdb
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.dll
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.pdb
+C:\Users\Bla\source\repos\Methods\04.MonthsExampleWithMethods\obj\Debug\netcoreapp3.1\04.MonthsExampleWithMethods.genruntimeconfig.cache
